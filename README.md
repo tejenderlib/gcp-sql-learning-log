@@ -5,21 +5,38 @@ This repo reflects consistent learning through structured, real-world lab exerci
 
 ---
 
-## 🧪 SQL Labs (Google Cloud)
-
+## 📊 BigQuery & Data Labs (Google Cloud)
 > Labs completed through Google Cloud Skills Boost (links point to official lab pages)
 
-- [Create and Manage Cloud SQL for PostgreSQL Instances: Challenge Lab](https://www.cloudskillsboost.google/catalog_lab?q=Create+and+Manage+Cloud+SQL+for+PostgreSQL+Instances)  
-- [Implementing Cloud SQL](https://www.cloudskillsboost.google/catalog_lab?q=Implementing+Cloud+SQL)  
-- [Create and Execute a SQL Workflow in Dataform](https://www.cloudskillsboost.google/catalog_lab?q=SQL+Workflow+Dataform)  
-- [Loading Data into Cloud SQL](https://www.cloudskillsboost.google/catalog_lab?q=Loading+Data+into+Cloud+SQL)  
-- [Analyze Customer Reviews with Gemini Using SQL](https://www.cloudskillsboost.google/catalog_lab?q=Customer+Reviews+Gemini+SQL)  
-- [Cloud SQL for MySQL: Qwik Start](https://www.cloudskillsboost.google/catalog_lab?q=Cloud+SQL+for+MySQL+Qwik+Start)  
-- [Cloud SQL for PostgreSQL: Qwik Start](https://www.cloudskillsboost.google/catalog_lab?q=Cloud+SQL+for+PostgreSQL+Qwik+Start)  
-- [Cloud SQL for PostgreSQL Database Observability and Tuning](https://www.cloudskillsboost.google/catalog_lab?q=PostgreSQL+Observability+Tuning)  
-- [Deploy Microsoft SQL Server to Compute Engine](https://www.cloudskillsboost.google/catalog_lab?q=SQL+Server+Compute+Engine)  
-- [Securing a Cloud SQL for PostgreSQL Instance](https://www.cloudskillsboost.google/catalog_lab?q=Securing+Cloud+SQL+PostgreSQL)  
-- [Configure Replication and Point-in-Time Recovery for Cloud SQL](https://www.cloudskillsboost.google/catalog_lab?q=Cloud+SQL+Replication+Point+in+Time+Recovery)  
-- [Connect an App to a Cloud SQL for PostgreSQL Instance](https://www.cloudskillsboost.google/catalog_lab?q=Connect+App+Cloud+SQL+PostgreSQL)  
-- [Introduction to SQL for BigQuery and Cloud SQL](https://www.cloudskillsboost.google/catalog_lab?q=SQL+BigQuery+Cloud+SQL)  
-- [Cloud Storage and Cloud SQL Fundamentals](https://www.cloudskillsboost.google/catalog_lab?q=Cloud+Storage+Cloud+SQL)  
+---
+
+### 🟡 Intermediate Level
+
+- [Using BigQuery in the Google Cloud Console](https://www.cloudskillsboost.google/catalog_lab?q=Using+BigQuery+Console)  
+- [BigQuery: Qwik Start - Console](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+Qwik+Start+Console)  
+- [BigLake: Qwik Start](https://www.cloudskillsboost.google/catalog_lab?q=BigLake+Qwik+Start)  
+- [Loading Your Own Data into BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Loading+Data+BigQuery)  
+- [Working with JSON, Arrays, and Structs in BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=JSON+Arrays+Structs+BigQuery)  
+- [Creating Date-Partitioned Tables in BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Date+Partitioned+Tables+BigQuery)  
+- [Creating Permanent Tables and Access-Controlled Views in BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Access+Controlled+Views+BigQuery)  
+- [Analyzing Billing Data with BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Billing+Data+BigQuery)  
+- [Analyze BigQuery data in Connected Sheets: Challenge Lab](https://www.cloudskillsboost.google/catalog_lab?q=Connected+Sheets+BigQuery)  
+- [Getting Started with BigQuery GIS for Data Analysts](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+GIS)  
+
+---
+
+### 🔴 Advanced Level
+
+- [Using BigQuery and Cloud Logging to Analyze BigQuery Usage](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+Logging+Usage)  
+- [Analyze BigQuery Usage with Log Analytics](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+Log+Analytics)  
+- [Cost Optimization and Data Tiering with BigLake and Cloud Storage](https://www.cloudskillsboost.google/catalog_lab?q=BigLake+Cost+Optimization)  
+- [Tag and Discover BigLake Data: Challenge Lab](https://www.cloudskillsboost.google/catalog_lab?q=BigLake+Tag+Discover)  
+- [Offloading Financial Mainframe Data into BigQuery and Elastic Search](https://www.cloudskillsboost.google/catalog_lab?q=Mainframe+Data+BigQuery+ElasticSearch)  
+- [Build and Optimize Data Warehouses with BigQuery: Challenge Lab](https://www.cloudskillsboost.google/catalog_lab?q=Optimize+Data+Warehouse+BigQuery)  
+- [Perform Predictive Data Analysis in BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Predictive+Data+Analysis+BigQuery)  
+- [BigQuery Machine Learning using Soccer Data](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+ML+Soccer)  
+- [Building Demand Forecasting with BigQuery ML](https://www.cloudskillsboost.google/catalog_lab?q=Demand+Forecasting+BigQuery+ML)  
+- [Using BigQuery Omni with AWS](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+Omni+AWS)  
+- [Creating and Populating a Bigtable Instance](https://www.cloudskillsboost.google/catalog_lab?q=Bigtable+Instance)  
+- [Designing and Querying Bigtable Schemas](https://www.cloudskillsboost.google/catalog_lab?q=Bigtable+Schema)  
+- [How to Build a BI Dashboard Using Looker Studio and BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Looker+Studio+BigQuery)  
