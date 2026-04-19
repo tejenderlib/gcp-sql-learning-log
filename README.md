@@ -18,25 +18,35 @@ This repo reflects consistent learning through structured, real-world lab exerci
 - [Loading Your Own Data into BigQuery](https://www.skills.google/focuses/17816?parent=catalog)  
 - [Working with JSON, Arrays, and Structs in BigQuery](https://www.skills.google/focuses/3696?parent=catalog)  
 - [Creating Date-Partitioned Tables in BigQuery](https://www.skills.google/focuses/3694?parent=catalog)  
-- [Creating Permanent Tables and Access-Controlled Views in BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Access+Controlled+Views+BigQuery)  
-- [Analyzing Billing Data with BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Billing+Data+BigQuery)  
-- [Analyze BigQuery data in Connected Sheets: Challenge Lab](https://www.cloudskillsboost.google/catalog_lab?q=Connected+Sheets+BigQuery)  
-- [Getting Started with BigQuery GIS for Data Analysts](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+GIS)  
+- [Creating Permanent Tables and Access-Controlled Views in BigQuery](https://www.skills.google/focuses/3690parent=catalog)  
+- [Analyzing Billing Data with BigQuery](https://www.skills.google/focuses/7114?parent=catalog)  
+- [Analyze BigQuery data in Connected Sheets: Challenge Lab](Analyze BigQuery data in Connected Sheets: Challenge Lab)  
+- [Getting Started with BigQuery GIS for Data Analysts](https://www.skills.google/focuses/17817?parent=catalog)  
  
 ---
 
 ### 🔴 Advanced Level
 
-- [Using BigQuery and Cloud Logging to Analyze BigQuery Usage](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+Logging+Usage)  
-- [Analyze BigQuery Usage with Log Analytics](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+Log+Analytics)  
-- [Cost Optimization and Data Tiering with BigLake and Cloud Storage](https://www.cloudskillsboost.google/catalog_lab?q=BigLake+Cost+Optimization)  
-- [Tag and Discover BigLake Data: Challenge Lab](https://www.cloudskillsboost.google/catalog_lab?q=BigLake+Tag+Discover)  
-- [Offloading Financial Mainframe Data into BigQuery and Elastic Search](https://www.cloudskillsboost.google/catalog_lab?q=Mainframe+Data+BigQuery+ElasticSearch)  
-- [Build and Optimize Data Warehouses with BigQuery: Challenge Lab](https://www.cloudskillsboost.google/catalog_lab?q=Optimize+Data+Warehouse+BigQuery)  
-- [Perform Predictive Data Analysis in BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Predictive+Data+Analysis+BigQuery)  
-- [BigQuery Machine Learning using Soccer Data](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+ML+Soccer)  
-- [Building Demand Forecasting with BigQuery ML](https://www.cloudskillsboost.google/catalog_lab?q=Demand+Forecasting+BigQuery+ML)  
-- [Using BigQuery Omni with AWS](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+Omni+AWS)  
+- [Using BigQuery and Cloud Logging to Analyze BigQuery Usage](https://www.skills.google/focuses/6100?parent=catalog)  
+- [Analyze BigQuery Usage with Log Analytics](https://www.skills.google/focuses/89264?parent=catalog)  
+- [Cost Optimization and Data Tiering with BigLake and Cloud Storage](https://www.skills.google/focuses/80700?parent=catalog)  
+- [Tag and Discover BigLake Data: Challenge Lab](https://www.skills.google/focuses/64167?parent=catalog)  
+- [Offloading Financial Mainframe Data into BigQuery and Elastic Search](https://www.skills.google/focuses/64744?parent=catalog)  
+- [Build and Optimize Data Warehouses with BigQuery: Challenge Lab](https://www.skills.google/focuses/14341?parent=catalog)  
+- [Perform Predictive Data Analysis in BigQuery](https://www.skills.google/course_templates/656/labs/404082)  
+- [BigQuery Machine Learning using Soccer Data](https://www.skills.google/focuses/23293?parent=catalog)  
+- [Building Demand Forecasting with BigQuery ML](https://www.skills.google/focuses/16547?parent=catalog)  
+- [Using BigQuery Omni with AWS](https://www.skills.google/focuses/49746?parent=catalog)  
 - [Creating and Populating a Bigtable Instance](https://www.cloudskillsboost.google/catalog_lab?q=Bigtable+Instance)  
 - [Designing and Querying Bigtable Schemas](https://www.cloudskillsboost.google/catalog_lab?q=Bigtable+Schema)  
-- [How to Build a BI Dashboard Using Looker Studio and BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Looker+Studio+BigQuery)  
+- [How to Build a BI Dashboard Using Looker Studio and BigQuery](https://www.skills.google/focuses/5538?parent=catalog)  
+
+---
+
+## 🔗 Google Cloud Skills Boost Profile
+
+View my complete learning progress and lab activity on Google Cloud:
+
+👉 [My Cloud Skills Boost Profile](https://www.skills.google/public_profiles/8f475a9a-a7ef-4408-9e98-edc15f9ca74a)
+
+This includes detailed records of completed labs, courses, and hands-on work across cloud, SQL, and data systems.
