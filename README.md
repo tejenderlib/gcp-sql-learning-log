@@ -12,17 +12,17 @@ This repo reflects consistent learning through structured, real-world lab exerci
 
 ### 🟡 Intermediate Level
 
-- [Using BigQuery in the Google Cloud Console](https://www.cloudskillsboost.google/catalog_lab?q=Using+BigQuery+Console)  
-- [BigQuery: Qwik Start - Console](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+Qwik+Start+Console)  
-- [BigLake: Qwik Start](https://www.cloudskillsboost.google/catalog_lab?q=BigLake+Qwik+Start)  
-- [Loading Your Own Data into BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Loading+Data+BigQuery)  
-- [Working with JSON, Arrays, and Structs in BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=JSON+Arrays+Structs+BigQuery)  
-- [Creating Date-Partitioned Tables in BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Date+Partitioned+Tables+BigQuery)  
+- [Using BigQuery in the Google Cloud Console](https://www.skills.google/focuses/3616?parent=catalog)  
+- [BigQuery: Qwik Start - Console](https://www.skills.google/focuses/1145?parent=catalog)  
+- [BigLake: Qwik Start](https://www.skills.google/focuses/37985?parent=catalog)  
+- [Loading Your Own Data into BigQuery](https://www.skills.google/focuses/17816?parent=catalog)  
+- [Working with JSON, Arrays, and Structs in BigQuery](https://www.skills.google/focuses/3696?parent=catalog)  
+- [Creating Date-Partitioned Tables in BigQuery](https://www.skills.google/focuses/3694?parent=catalog)  
 - [Creating Permanent Tables and Access-Controlled Views in BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Access+Controlled+Views+BigQuery)  
 - [Analyzing Billing Data with BigQuery](https://www.cloudskillsboost.google/catalog_lab?q=Billing+Data+BigQuery)  
 - [Analyze BigQuery data in Connected Sheets: Challenge Lab](https://www.cloudskillsboost.google/catalog_lab?q=Connected+Sheets+BigQuery)  
 - [Getting Started with BigQuery GIS for Data Analysts](https://www.cloudskillsboost.google/catalog_lab?q=BigQuery+GIS)  
-
+ 
 ---
 
 ### 🔴 Advanced Level
