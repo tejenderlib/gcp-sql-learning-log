@@ -1,8 +1,10 @@
 # GCP SQL Learning Log
 
-This repository documents my hands-on learning of SQL using Google Cloud labs.
-
-I focus on understanding how SQL works in real environments, including data handling, database management, and cloud-based workflows through practical lab exercises.
+This repository documents my hands-on learning of SQL through Google Cloud labs.  
+It focuses on working with real data systems using BigQuery and Cloud SQL (PostgreSQL/MySQL).  
+I explore data loading, querying, analysis, and database management in cloud environments.  
+The goal is to understand how SQL operates in practical, system-level scenarios.  
+This repo reflects consistent learning through structured, real-world lab exercises.
 
 ---
 
