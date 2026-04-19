@@ -58,7 +58,7 @@ If you have questions about the labs, SQL concepts, or cloud data workflows, fee
 
 I’m open to discussing approaches, sharing insights, and helping with learning-related queries.
 
-📧 tejender@gmail.comm
+📧 tejender099@gmail.comm
 ---
 
 ## 🧠 What I Learned
