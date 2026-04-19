@@ -53,6 +53,15 @@ This includes detailed records of completed labs, courses, and hands-on work acr
 
 ---
 
+## 📬 Contact
+
+If you have questions about the labs, SQL concepts, or cloud data workflows, feel free to reach out.
+
+I’m open to discussing approaches, sharing insights, and helping with learning-related queries.
+
+📧 Email: your-tejender099@email.com
+---
+
 ## 🧠 What I Learned
 
 - Advanced SQL querying on large-scale datasets, including joins, aggregations, subqueries, and semi-structured data (JSON, arrays, structs)  
