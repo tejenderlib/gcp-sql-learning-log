@@ -96,6 +96,5 @@ These examples reflect practical usage rather than isolated practice, connecting
 - Querying public datasets in BigQuery  
 - Handling nested data using `UNNEST`  
 - Using window functions for ranking and analysis  
-- Working with partitioned data for efficiency  
 - Building analytical queries using CTEs  
 - Applying BigQuery ML for predictive modeling  
