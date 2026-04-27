@@ -72,7 +72,7 @@ I’m open to discussing approaches, sharing insights, and helping with learning
 - Implemented machine learning models using SQL (BigQuery ML) for prediction and forecasting  
 - Managed and secured Cloud SQL databases with replication, backups, and recovery strategies  
 - Monitored and optimized data systems using logging, performance analysis, and cost-efficient queries  
-- Solved real-world scenarios through challenge labs, applying knowledge independently  
+  
 
 ---
 
