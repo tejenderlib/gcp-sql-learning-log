@@ -38,7 +38,6 @@ This repository documents my hands-on learning of SQL through Google Cloud labs.
 - [Perform Predictive Data Analysis in BigQuery](https://www.skills.google/course_templates/656/labs/404082)  
 - [BigQuery Machine Learning using Soccer Data](https://www.skills.google/focuses/23293?parent=catalog)  
 - [Building Demand Forecasting with BigQuery ML](https://www.skills.google/focuses/16547?parent=catalog)  
-- [Using BigQuery Omni with AWS](https://www.skills.google/focuses/49746?parent=catalog)  
 - [Creating and Populating a Bigtable Instance](https://www.cloudskillsboost.google/catalog_lab?q=Bigtable+Instance)  
 - [Designing and Querying Bigtable Schemas](https://www.cloudskillsboost.google/catalog_lab?q=Bigtable+Schema)  
 - [How to Build a BI Dashboard Using Looker Studio and BigQuery](https://www.skills.google/focuses/5538?parent=catalog)  
