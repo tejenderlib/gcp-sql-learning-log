@@ -87,13 +87,3 @@ They demonstrate how SQL is used in practice to:
 - Apply machine learning directly within SQL environments  
 
 These examples reflect practical usage rather than isolated practice, connecting lab concepts to real data systems.
-
----
-
-## 🔍 Key Concepts Applied
-
-- Querying public datasets in BigQuery  
-- Handling nested data using `UNNEST`  
-- Using window functions for ranking and analysis  
-- Building analytical queries using CTEs  
-- Applying BigQuery ML for predictive modeling  
