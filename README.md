@@ -23,7 +23,6 @@ This repository documents my hands-on learning of SQL through Google Cloud labs.
 - [Analyzing Billing Data with BigQuery](https://www.skills.google/focuses/7114?parent=catalog)  
 - [Analyze BigQuery data in Connected Sheets: Challenge Lab](https://www.skills.google/focuses/60443?parent=catalog)  
 - [Getting Started with BigQuery GIS for Data Analysts](https://www.skills.google/focuses/17817?parent=catalog) 
-- [Conversational Agents: Bot Building Basics](https://www.skills.google/games/7113/labs/44144)
  
 ---
 
