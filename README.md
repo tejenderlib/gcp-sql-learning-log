@@ -80,7 +80,6 @@ The queries in this repository are based on concepts learned from Google Cloud l
 
 They demonstrate how SQL is used in practice to:
 - Analyze large-scale datasets in BigQuery  
-- Work with nested and semi-structured data  
 - Optimize queries for performance and cost  
 - Build data pipelines and transformations  
 - Apply machine learning directly within SQL environments  
